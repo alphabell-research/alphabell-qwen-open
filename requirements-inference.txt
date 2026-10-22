@@ -1,0 +1,4 @@
+# CPU reference inference, tested 22 October 2026.
+torch==2.13.0
+transformers==5.19.0
+accelerate==1.15.0

@@ -1,0 +1,19 @@
+{
+  "date_utc": "2026-10-21T23:53:05.760527+00:00",
+  "device": "cpu",
+  "dtype": "bfloat16",
+  "torch_version": "2.13.0+cu130",
+  "transformers_version": "5.17.0",
+  "model_class": "Qwen3_5ForConditionalGeneration",
+  "trust_remote_code": false,
+  "threads": 8,
+  "prompt": "Reply with one short sentence: hello, and what is 2 + 3?",
+  "thinking": false,
+  "do_sample": false,
+  "max_new_tokens": 32,
+  "generated_tokens": 12,
+  "output": "Hello, 2 + 3 is 5.",
+  "loading_seconds": 2.149,
+  "generation_seconds": 118.973,
+  "completed": true
+}
