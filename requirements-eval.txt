@@ -1,0 +1,4 @@
+# Current evaluation client environment, recorded on 21 October 2026.
+# These pins are not a recovered historical benchmark lockfile.
+evalplus==0.3.1
+httpx==0.28.1

@@ -1,0 +1,33 @@
+# Weight artifacts
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.gguf
+*.onnx
+weights/
+models/
+
+# Credentials and local configuration
+.env
+.env.*
+secrets/
+credentials/
+*.pem
+*.key
+auth.json
+.credentials.json
+
+# Generated local files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+.mypy_cache/
+outputs/
+evalplus_results/
+*.log
+.DS_Store

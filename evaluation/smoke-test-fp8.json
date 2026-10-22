@@ -1,0 +1,28 @@
+{
+  "date_utc": "2026-10-22T00:02:30.214465+00:00",
+  "device": "cpu",
+  "dtype": "bfloat16",
+  "source_precision": "fp8",
+  "dequantized_on_cpu": true,
+  "hub_kernels_enabled": false,
+  "unwrapped_reference_functions": [
+    "torch_chunk_gated_delta_rule",
+    "torch_recurrent_gated_delta_rule",
+    "causal_conv1d_fn",
+    "causal_conv1d_update"
+  ],
+  "torch_version": "2.13.0+cu130",
+  "transformers_version": "5.19.0",
+  "model_class": "Qwen3_5ForConditionalGeneration",
+  "trust_remote_code": false,
+  "threads": 8,
+  "prompt": "Reply with one short sentence: hello, and what is 2 + 3?",
+  "thinking": false,
+  "do_sample": false,
+  "max_new_tokens": 32,
+  "generated_tokens": 12,
+  "output": "Hello, 2 + 3 is 5.",
+  "loading_seconds": 53.819,
+  "generation_seconds": 99.861,
+  "completed": true
+}
