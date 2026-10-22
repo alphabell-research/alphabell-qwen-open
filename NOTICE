@@ -1,0 +1,24 @@
+alphaBell-Qwen3.8-27B-Open
+Developed by alphaBell. https://alphabell.com
+
+Model parent: Qwen/Qwen3.8-27B, revision
+1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0.
+Qwen parent license: Apache License 2.0.
+https://huggingface.co/Qwen/Qwen3.8-27B
+
+alphaBell's model modifications include weight editing and supervised
+fine-tuning. They are described in the accompanying model cards.
+
+Training replay source: Stanford Alpaca, tatsu-lab/alpaca.
+Data license: Creative Commons Attribution-NonCommercial 4.0 International.
+https://huggingface.co/datasets/tatsu-lab/alpaca
+https://github.com/tatsu-lab/stanford_alpaca
+The training dataset revision was not recorded.
+
+Evaluation uses EvalPlus by its respective contributors.
+https://github.com/evalplus/evalplus
+EvalPlus dependencies and benchmark datasets retain their own licenses.
+
+The standalone evaluation and inference Python scripts are licensed under
+Apache License 2.0, as identified by their file headers. This licensing
+does not grant commercial rights to the alphaBell model or its training data.

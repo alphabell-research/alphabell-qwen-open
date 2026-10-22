@@ -1,0 +1,79 @@
+alphaBell Research Noncommercial License
+Identifier: alphabell-research-noncommercial
+Version 1.0
+
+Copyright 2026 alphaBell. https://alphabell.com
+
+1. Scope
+
+These terms apply to alphaBell's contributions to the
+alphaBell-Qwen3.8-27B-Open model family and its accompanying documentation,
+evaluation results and figures, to the extent alphaBell owns or controls the
+rights required to license them (the "alphaBell Material"). Files expressly
+identified as Apache-2.0, including the standalone evaluation and inference
+scripts, are governed by that license instead.
+
+Third-party material retains its own license. These terms do not replace,
+restrict or expand the permissions granted directly by third-party licensors
+over their original material.
+
+2. Permission for noncommercial research
+
+Subject to these terms, alphaBell grants a worldwide, royalty-free,
+nonexclusive copyright license to use, reproduce, modify, display and
+redistribute the alphaBell Material solely for noncommercial research.
+Noncommercial research means scientific investigation, evaluation or
+education that is not primarily intended for commercial advantage or
+monetary compensation. Commercial products, commercial services and
+commercial deployment of the alphaBell Material are outside this grant.
+
+3. Attribution and redistribution
+
+When redistributing alphaBell Material or modifications to it, you must:
+
+(a) include this license and retain applicable attribution and license notices;
+(b) identify alphaBell and https://alphabell.com as the source of alphaBell's
+    contributions without suggesting endorsement;
+(c) identify material changes you have made; and
+(d) preserve these noncommercial research conditions for the alphaBell
+    Material included in your distribution.
+
+These conditions apply only to rights licensed by alphaBell. They do not
+change an independently applicable third-party license or rights arising
+under exceptions and limitations to copyright.
+
+4. Upstream material
+
+The Qwen parent is Qwen/Qwen3.8-27B, revision
+1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0. Its original material is governed
+by Apache License 2.0. A copy is included in
+licenses/QWEN_APACHE_2.0.txt. Source:
+https://huggingface.co/Qwen/Qwen3.8-27B
+
+Training included examples from tatsu-lab/alpaca, whose data license is
+Creative Commons Attribution-NonCommercial 4.0 International. A copy is
+included in licenses/ALPACA_DATA_LICENSE.txt. Sources:
+https://huggingface.co/datasets/tatsu-lab/alpaca
+https://github.com/tatsu-lab/stanford_alpaca
+
+Stanford's Alpaca usage notice states that models trained using its dataset
+should not be used outside research. This release is offered for
+noncommercial research with that provenance disclosed. alphaBell grants no
+additional rights in Qwen, Alpaca or any other third-party material, and
+makes no representation that this license resolves every third-party right
+that may apply to a particular use.
+
+5. No trademark permission
+
+These terms grant no trademark rights except reasonable attribution of the
+source. You may not imply that alphaBell or upstream contributors endorse
+your modifications or use.
+
+6. Warranty and liability
+
+To the extent permitted by applicable law, the alphaBell Material is
+provided "AS IS", without warranties of accuracy, merchantability, fitness
+for a particular purpose, title or noninfringement. To the extent permitted
+by applicable law, alphaBell is not liable for damages arising from use or
+redistribution of the alphaBell Material. You are responsible for evaluating
+its suitability and for obtaining any permissions required for your use.
